@@ -1,0 +1,15 @@
+#Jonathan An
+#860986899
+#Lab Section 022
+#Homework 9
+
+diff Thread_0 /usr/share/dict/words 
+diff Thread_1 /usr/share/dict/words
+diff Thread_2 /usr/share/dict/words 
+diff Thread_3 /usr/share/dict/words
+diff Thread_4 /usr/share/dict/words 
+diff Thread_5 /usr/share/dict/words
+diff Thread_6 /usr/share/dict/words 
+diff Thread_7 /usr/share/dict/words
+diff Thread_8 /usr/share/dict/words 
+diff Thread_9 /usr/share/dict/words
